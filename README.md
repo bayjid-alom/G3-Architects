@@ -1,7 +1,7 @@
-## G3 Architects
+## 🚀 G3 Architects
 
-## 🌐 Live Site
-[Visit : G3 Architects](https://bayjid-alom.github.io/G3-Architects/)
+### 🌐 Live Site
+**[Visit - G3 Architects](https://g3-architects-web.vercel.app/)**
 
 ---
 
@@ -16,15 +16,33 @@ This project highlights responsive web design principles, structured layouts, an
 
 ## ✨ Key Features
 
+- Modern & Minimal UI
 - Fully Responsive Design
-- Modern UI & Clean Layout
-- Hero Banner Section
 - Architecture Project Showcase
-- Interactive Button Hover Effects
-- Organized Content Structure
-- Pure HTML5 & CSS3 Project
+- Hero Banner Section
+- Interactive Hover Effects
+- Clean & Structured Layout
+- Custom CSS Styling
+- Lightweight & Fast
+- Well-organized Content Sections
+- Responsive Navigation & Components
+---
+
+
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- 💻 Laptop / Desktop screens
+- 📱 Screens around **576px**
+- 🔄 Flexible layouts and responsive sections
+
+The design adapts spacing, typography, images, and layouts to provide a consistent experience across supported screen sizes.
 
 ---
+
+
 
 ## 🛠️ Technologies Used
 
