@@ -1,17 +1,15 @@
-@media screen and (max-width:576px) {
+@media screen and (max-width: 576px) {
+
     body {
         overflow-x: hidden;
     }
 
+    /* Header */
     header {
         padding-top: 35px;
         padding-bottom: 8px;
         margin-bottom: 60px;
     }
-
-    /* .display-flex {
-        flex-direction: column;
-    } */
 
     nav {
         max-width: 100%;
@@ -31,8 +29,7 @@
         font-size: 30px;
     }
 
-    /* Banner related styles */
-
+    /* Banner */
     .banner-container {
         max-width: 95%;
         padding-top: 40px;
@@ -40,6 +37,9 @@
 
     .banner-content {
         max-width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 33px;
     }
 
     .banner-content h2 {
@@ -50,23 +50,7 @@
         padding: 14px 20px;
     }
 
-    .banner-content {
-        max-width: 862px;
-        margin: 0 auto;
-        text-align: center;
-        margin-bottom: 33px;
-    }
-
-    /* .nav-links {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        flex-wrap: wrap;
-    } */
-
-
-    /* Feature related styles */
-
+    /* Features */
     .feature-container {
         max-width: 95%;
         flex-direction: column-reverse;
@@ -94,10 +78,7 @@
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     }
 
-
-
     /* Experience */
-
     .info-container {
         max-width: 95%;
         flex-direction: column;
@@ -115,8 +96,6 @@
     .info-image {
         max-width: 100%;
     }
-
-
 
     .badge {
         padding: 18px 34px;
@@ -142,12 +121,9 @@
         max-width: 96%;
         margin: 0 auto;
         margin-bottom: 27px;
-
     }
 
-
-    /* Facts Section Styles */
-
+    /* Facts */
     .facts-container {
         max-width: 95%;
     }
@@ -155,7 +131,6 @@
     .facts-heading {
         max-width: 90%;
         text-align: left;
-
         border-left: 4px solid #FF900E;
         padding-left: 12px;
         margin: 0 auto;
@@ -164,12 +139,10 @@
 
     .facts-heading h3 {
         font-size: 40px;
-
     }
 
     .facts-card-container {
         max-width: 100%;
-
         grid-template-columns: repeat(1, 1fr);
         gap: 25px;
     }
@@ -178,26 +151,19 @@
         max-width: 241px;
     }
 
-
-
-
-    /* Sponsors Section */
-
+    /* Sponsors */
     .sponsors-section {
         max-width: 95%;
-
         margin-bottom: 60px;
     }
 
     .sponsors-heading {
         max-width: 100%;
-
     }
 
     .sponsors-heading h2 {
         font-size: 40px;
     }
-
 
     .sporsors-container {
         max-width: 100%;
@@ -212,13 +178,11 @@
         margin: 0 auto;
     }
 
-
     /* Footer */
     footer {
         max-width: 100%;
         margin-bottom: 50px;
     }
-
 
     .footer-container {
         max-width: 100%;
@@ -231,7 +195,4 @@
         font-size: 17px;
         color: #424242;
     }
-
-
-
 }
